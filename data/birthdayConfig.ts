@@ -1,9 +1,9 @@
 export const BIRTHDAY_CONFIG = {
   // မွေးသက္ကရာဇ် (YYYY-MM-DD) - ဤရက်စွဲမှ အသက်နှင့် Countdown ကို အလိုအလျောက်တွက်ပါမည်
-  birthDate: "1979-11-26",
+  birthDate: "1979-11-27",
 
   recipientName: "ချစ်ခင်လေးစားရပါသော အမ",
-  cardCoverPhoto: "/photos/1.jpg", // 3D ကတ်နှင့် PNG Download တွင် ပါဝင်မည့်ပုံ
+  cardCoverPhoto: "/photos/5.jpg", 
 
 
  photos: [
